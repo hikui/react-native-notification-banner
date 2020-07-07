@@ -1,6 +1,7 @@
 
 #import "RNNotificationBanner.h"
 
+@import BRYXBanner;
 @implementation RNNotificationBanner
 
 RCTResponseSenderBlock _onClickCallback = nil;
